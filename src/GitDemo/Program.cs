@@ -6,8 +6,10 @@ namespace GitDemo
     {
         public void Main(string[] args)
         {
+            Console.WriteLine("testing");
             Console.WriteLine("Hello World");
             Console.ReadLine();
+
         }
     }
 }
